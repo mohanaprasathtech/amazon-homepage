@@ -1,2 +1,2 @@
 # amazon-homepage
- homepage of amazon
+ created by React.js
